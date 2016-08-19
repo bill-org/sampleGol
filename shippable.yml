@@ -26,6 +26,7 @@ build:
   ci:
     - go version
     - echo $key1 and $key2
+    - sleep 2m
 
 
 
